@@ -1,5 +1,5 @@
 # <p align="center">My Github Profile</p>
-### <p align="center">Manager For Soy-Project</p>
+### <p align="center">Crown Hat Fam</p>
 
 <p align="center">
 <img height="150px" src="https://lanyard-profile-readme.vercel.app/api/719751630077034569" />
