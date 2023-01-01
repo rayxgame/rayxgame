@@ -1,6 +1,6 @@
 # <p align="center">My Github Profile</p>
 ### <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00ff99&lines=%22Hello+there!+%F0%9F%91%8B%F0%9F%8F%BB%22;%22I'm+Blacky!%22;%22Welcome+to+my+profile!%22"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ff99&lines=%Crown+Hat+Fam%:3"/>
  </a>
 
 <p align="center">
