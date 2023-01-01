@@ -1,5 +1,7 @@
 # <p align="center">My Github Profile</p>
-### <p align="center">Crown Hat Fam</p>
+### <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ff99&lines=%22Hello+there!+%F0%9F%91%8B%F0%9F%8F%BB%22;%22I'm+Blacky!%22;%22Welcome+to+my+profile!%22"/>
+ </a>
 
 <p align="center">
 <img height="150px" src="https://lanyard-profile-readme.vercel.app/api/719751630077034569" />
